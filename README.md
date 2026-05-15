@@ -1,7 +1,7 @@
-# Coffee App
+# Eco Home
 
 ## Overview
-Coffee brewing and recipe sharing platform.
+Sustainable home living tips and resources.
 
 ## Features
 - User-friendly interface
@@ -11,8 +11,8 @@ Coffee brewing and recipe sharing platform.
 
 ## Installation
 ```bash
-git clone https://github.com/username/coffee-app.git
-cd coffee-app
+git clone https://github.com/username/eco-home.git
+cd eco-home
 ```
 
 ## Usage
